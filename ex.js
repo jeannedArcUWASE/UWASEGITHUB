@@ -1,0 +1,1 @@
+document.write('<h2 style=color:red;> what is the purpose of java script in htm </h2>')
